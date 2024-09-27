@@ -1,3 +1,6 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=phong-jack&theme=algolia&show_icons=true)](https://github.com/phong-jack/)	
+
+
 👋  Hey there, I'm Ngo Tien Phong! 👋
 
 🚀  My purpose is become a Backend Developer passionate about building awesome web applications! 💻
