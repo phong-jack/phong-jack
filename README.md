@@ -1,5 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=phong-jack&theme=algolia&show_icons=true)](https://github.com/phong-jack/)	
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phong-jack&layout=compact&langs_count=20&theme=radical&hide_border=true)
 
 👋  Hey there, I'm Ngo Tien Phong! 👋
 
