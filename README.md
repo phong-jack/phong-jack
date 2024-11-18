@@ -14,4 +14,3 @@
 
 ❤️  I love:  Exploring new technologies! 
 
-🔗  [https://www.facebook.com/profile.php?id=100009394109717]
