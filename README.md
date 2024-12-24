@@ -8,7 +8,7 @@
 
 💪  My current stack:  Node.js/NestJS | Express | TypeScript | JavaScript. 
 
-📚  Currently diving into .NET  to expand my horizons! 
+📚  Currently diving into .NET  to expand my horizons! (But now I am fresher Java :v)
 
 🎓  Graduated from Hue University of Science.
 
