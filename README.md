@@ -8,9 +8,9 @@
 
 💪  My current stack:  Node.js/NestJS | Express | TypeScript | JavaScript. 
 
-📚  Currently diving into .NET  to expand my horizons! (But now I am fresher Java :v)
+📚  Currently I'm work with JAVA, and I'm a Software Engineer at FPT Software
 
 🎓  Graduated from Hue University of Science.
 
-❤️  I love:  Exploring new technologies! 
+❤️  I love:  I love reading novels and creating awesome applications to help people who share my hobbies.
 
